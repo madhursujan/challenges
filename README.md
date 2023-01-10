@@ -26,11 +26,11 @@ The choice of language and implementation is up to you.
 
 Example Input
 
-object = {“a”:{“b”:{“c”:”d”}}}
+object = {"a":{"b":{"c":"d"}}}
 
 key = a/b/c
 
-object = {“x”:{“y”:{“z”:”a”}}}
+object = {"x":{"y":{"z":"a"}}}
 
 key = x/y/z
 
